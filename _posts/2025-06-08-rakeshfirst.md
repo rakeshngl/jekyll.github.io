@@ -4,6 +4,9 @@ date: 2025-06-08 16:30:00 +0000
 categories: [general, first]
 tags: [general]
 ---
+---
+author: <author_id>                     # for single entry
+---
 # Rakesh First Jekyll post
 
 Rakesh first test post using MarkDown
